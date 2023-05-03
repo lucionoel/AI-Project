@@ -7,6 +7,7 @@
 
 
 # AI-Project
+![Alt text](https://www.chop.edu/sites/default/files/styles/16_9_large/public/holly-canonical.jpg?itok=98NJpKui.jpg)
 This project consists of utilising AI models to distinguish wether a berry is edible or not using images.
 
 ### How Is Done
