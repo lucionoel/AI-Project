@@ -1,6 +1,8 @@
-#Links
+# Links
 [My Website](https://lucionoel.github.io/MyWebsite/index.html)
+
 [Can You Eat It](https://colab.research.google.com/drive/1ZHiGBXuKrT6YRAafVelUCuF_bFtKW5Wy?usp=sharing)
+
 [Presentation](https://www.canva.com/design/DAFf6Le-WNs/axP7-RGs4ko9EDcNk2QH9g/edit?utm_content=DAFf6Le-WNs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
