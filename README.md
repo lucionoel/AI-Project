@@ -6,3 +6,4 @@ I used a convolutional neural network known as Alexnet; and using multimple imag
 AlexNet is a convolutional neural network that is 8 layers deep. You can load a pretrained version of the network trained on more than a million images from the ImageNet database. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals.
 
 Basically, the "CNN" takes an imput of an image and runs it throught 5 fiters from which it extracts certain cues from the image which then are used to detarmine what image is being used.
+![Alt text](https://www.mdpi.com/remotesensing/remotesensing-09-00848/article_deploy/html/images/remotesensing-09-00848-g001.png)
