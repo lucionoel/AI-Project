@@ -6,8 +6,9 @@
 [Presentation](https://www.canva.com/design/DAFf6Le-WNs/axP7-RGs4ko9EDcNk2QH9g/edit?utm_content=DAFf6Le-WNs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-# AI-Project
+# Can You Eat It Project
 ![Alt text](https://www.chop.edu/sites/default/files/styles/16_9_large/public/holly-canonical.jpg?itok=98NJpKui.jpg)
+
 This project consists of utilising AI models to distinguish wether a berry is edible or not using images.
 
 ### How Is Done
